@@ -1,0 +1,12 @@
+filename,nanopubs,head,assertion,provenance,pubinfo
+20161110_index.trig.gz,4,16,3833,4,23
+20161210_index.trig.gz,4,16,3841,4,24
+20161210-20161110_index.trig.gz,4,16,3841,4,24
+20170210_index.trig.gz,4,16,3909,4,24
+20170210-20161210_index.trig.gz,4,16,3909,4,24
+20170310_index.trig.gz,4,16,3909,4,24
+20170310-20170210_index.trig.gz,4,16,3909,4,24
+20170410_index.trig.gz,4,16,3913,4,24
+20170410-20170310_index.trig.gz,4,16,3913,4,24
+20170510_index.trig.gz,4,16,3913,4,24
+20170510-20170410_index.trig.gz,4,16,3913,4,24

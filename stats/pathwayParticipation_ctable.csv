@@ -1,0 +1,7 @@
+file,reusableCount,inputCount,reuseCount,topicMatchCount,intopicDuplCount,outTopicDuplCount,topicMatchErrors
+20161110.trig.gz,0,3830,0,0,0,0,0
+20161210.trig.gz,3830,3838,3692,134,0,0,0
+20170210.trig.gz,3838,3906,3638,154,0,0,0
+20170310.trig.gz,3906,3906,3618,207,0,0,0
+20170410.trig.gz,3906,3910,3596,294,0,0,0
+20170510.trig.gz,3910,3910,3593,317,0,0,0
