@@ -1,6 +1,8 @@
 #!/bin/bash
 #
-# Usage: scripts/preprocess-input.sh 20161210
+# Usage:
+# 
+# $ scripts/preprocess-input.sh 20161210
 # 
 
 
