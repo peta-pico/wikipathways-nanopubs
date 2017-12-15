@@ -1,7 +1,19 @@
 #!/bin/bash
 #
-# Usage: scripts/merge-input.sh 20161210
+# Usage: scripts/preprocess-input.sh 20161210
 # 
+
+
+# uncompress raw files:
+
+cp input/raw/wp_nanopubs_$1.tar.gz input/raw-uncompressed
+cd input/raw-uncompressed
+tar -zxf wp_nanopubs_$1.tar.gz
+rm wp_nanopubs_$1.tar.gz
+cd ../..
+
+
+# merge input files:
 
 cat input/raw-uncompressed/$1/complexes.wp*.trig \
   | gzip \
