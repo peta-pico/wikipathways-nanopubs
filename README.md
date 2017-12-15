@@ -15,4 +15,11 @@ with the version number of the new release):
 
     $ scripts/preprocess-input.sh 20161210
 
-_(to be continued...)_
+Next we can build the incremental release files (replace `20161110` with the
+previous version number and `20161210` with the new version number):
+
+    $ scripts/build-incremental-release.sh 20161110 20161210
+
+And finally, we can create some statistics:
+
+    $ scripts/make-all-stats.sh 20161210

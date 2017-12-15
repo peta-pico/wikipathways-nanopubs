@@ -2,7 +2,7 @@
 #
 # Usage:
 #
-# $ scripts/build-diff.sh complexes 20161210 20170210
+# $ scripts/build-diff.sh complexes 20161110 20161210
 #
 
 npop reuse -n -s \

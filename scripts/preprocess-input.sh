@@ -6,7 +6,7 @@
 # 
 
 
-# uncompress raw files:
+echo "uncompressing raw files..."
 
 cp input/raw/wp_nanopubs_$1.tar.gz input/raw-uncompressed
 cd input/raw-uncompressed
@@ -15,7 +15,7 @@ rm wp_nanopubs_$1.tar.gz
 cd ../..
 
 
-# merge input files:
+echo "merging input files..."
 
 cat input/raw-uncompressed/$1/complexes.wp*.trig \
   | gzip \
