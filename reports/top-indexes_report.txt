@@ -24,3 +24,5 @@ Index URI: http://purl.org/np/RAKz0OQ3Dq8dDWqF7SIY4TgYcZRX4d2TnmLUEbOwnaGmQ
 Index URI: http://purl.org/np/RA-OqlWv038E_6gEuB-7_Q0Z1vg1Riztes6wbO72K4T6Y
 20170710
 Index URI: http://purl.org/np/RATjW4Rl_8gGY_SdlIYaaRuLiKMBYKtHZ78MoiuHDzwg8
+20170810
+Index URI: http://purl.org/np/RA0MYQBxAkmFTGzOUgmorKF-Z05E_n8snH1X3ZWNjmiEQ
