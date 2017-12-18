@@ -41,8 +41,6 @@ if [ $PREVIOUS ]; then
   SUPERSEDE="-x $PREVIOUS"
 fi
 
-exit
-
 (
   echo "$2";
   np mkindex \

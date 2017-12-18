@@ -78,7 +78,7 @@ if [ -f output/pathwayParticipation/$1_index.trig.gz ]; then
     >> output/combined/$1_index.trig
 fi
 
-cat output/wp-monthly/top/$1_top-index.trig.gz \
+cat output/top/$1_top-index.trig.gz \
     | gunzip \
     >> output/combined/$1_index.trig
 
@@ -113,7 +113,7 @@ if [ -f output/pathwayParticipation/$1-*_index.trig.gz ]; then
     >> output/combined/$1-xx_index.trig
 fi
 
-cat output/wp-monthly/top/$1_top-index.trig.gz \
+cat output/top/$1_top-index.trig.gz \
     | gunzip \
     >> output/combined/$1-xx_index.trig
 

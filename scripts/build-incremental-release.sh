@@ -13,11 +13,11 @@ scripts/build-diff.sh interactions $1 $2
 scripts/build-diff.sh pathwayParticipation $1 $2
 
 
-echo "combining output..."
-
-scripts/combine-output.sh $2
-
-
 echo "building top index..."
 
 scripts/build-top-index.sh $1 $2
+
+
+echo "combining output..."
+
+scripts/combine-output.sh $2
