@@ -21,3 +21,8 @@ scripts/build-top-index.sh $1 $2
 echo "combining output..."
 
 scripts/combine-output.sh $2
+
+
+echo "calculating statistics..."
+
+scripts/make-all-stats.sh $2
