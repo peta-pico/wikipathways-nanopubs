@@ -1,0 +1,9 @@
+Older dataset count (unique): 45 (45)
+Newer dataset count: 45
+Reuse count: 33
+Topic match count: 1
+Duplicate topics in older dataset: 0
+Duplicate topics in newer dataset: 0
+Total topic matching errors: 0
+Index URI: http://purl.org/np/RA1AMnSjbML9T4WDOsTZu5UDhD7Mr8ExIvztGd4Y4uJfk
+Index reuse count: 0
