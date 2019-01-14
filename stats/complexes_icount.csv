@@ -50,3 +50,11 @@ filename,nanopubs,head,assertion,provenance,pubinfo
 20180710-20180610_index.trig.gz,1,4,48,1,6
 20180810_index.trig.gz,1,4,48,1,6
 20180810-20180710_index.trig.gz,1,4,48,1,6
+20180910_index.trig.gz,1,4,48,1,6
+20180910-20180810_index.trig.gz,1,4,48,1,6
+20181010_index.trig.gz,2,8,51,2,12
+20181010-20180910_index.trig.gz,1,4,3,1,6
+20181210_index.trig.gz,1,4,49,1,6
+20181210-20181010_index.trig.gz,1,4,49,1,6
+20190110_index.trig.gz,1,4,52,1,6
+20190110-20181210_index.trig.gz,1,4,52,1,6
