@@ -54,3 +54,5 @@ filename,nanopubs,head,assertion,provenance,pubinfo
 20190310-20190210_index.trig.gz,5,20,4967,5,30
 20190410_index.trig.gz,5,20,4977,5,30
 20190410-20190310_index.trig.gz,4,16,3977,4,24
+20190510_index.trig.gz,6,24,5035,6,36
+20190510-20190410_index.trig.gz,6,24,5035,6,36
