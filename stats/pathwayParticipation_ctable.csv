@@ -28,3 +28,6 @@ file,reusableCount,inputCount,reuseCount,topicMatchCount,intopicDuplCount,outTop
 20190310.trig.gz,4931,4963,4888,40,0,0,0
 20190410.trig.gz,4963,4973,4889,71,0,0,0
 20190510.trig.gz,4973,5030,4927,43,0,0,0
+20190610.trig.gz,5030,5031,4959,61,0,0,0
+20190710.trig.gz,5031,5068,4689,327,0,0,0
+20190810.trig.gz,5068,5036,4343,653,0,0,0

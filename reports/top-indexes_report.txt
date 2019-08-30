@@ -67,3 +67,9 @@ Index URI: http://purl.org/np/RAyeY5VLe34iPuc-8TqO0JmNv8BJUEBNkUKplQi0hq5XE
 Index URI: http://purl.org/np/RAXaQM_nfzQP5fTCgak0ehKGgHmQ3LkoduwD0rkoIdkuY
 20190510
 Index URI: http://purl.org/np/RAEt_KBDmtVYhoKY3bbQDi10jketV9nVz1RBVPbn_aVAs
+20190610
+Index URI: http://purl.org/np/RA8yAZEmb1ivcJUJd313jWHEEEVaiIGmG0x9SFRART67w
+20190710
+Index URI: http://purl.org/np/RABi0uYxyPsSTxIb5_5w8X2lJlzai4Ix2n12pdDkEJPj0
+20190810
+Index URI: http://purl.org/np/RAxiSdo3VRiNVkp9SPOCUpzhCVta-rIzLIcMH5E2-2HhA
