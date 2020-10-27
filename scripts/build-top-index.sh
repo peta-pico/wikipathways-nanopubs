@@ -35,6 +35,7 @@ PREVIOUS=`
   | sed -r '{N;s/^([0-9]*)\nIndex URI:/\1/g}' \
   | egrep "^$1" | sed -r 's/^[0-9]* //'
 `
+echo "Previous index: $PREVIOUS"
 SUPERSEDE=""
 if [ $PREVIOUS ]; then
   SUPERSEDE="-x $PREVIOUS"
