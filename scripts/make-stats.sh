@@ -15,13 +15,13 @@ if [ $2 == "HEADER" ]; then
 fi
 
 if [ -f output/$1/$2-*_new.trig.gz ]; then
-  npop count \
+  np op count \
     -r stats/$1_count.csv \
     output/$1/$2-*_new.trig.gz
 fi
 
 if [ -f output/$1/$2_full.trig.gz ]; then
-  npop count \
+  np op count \
     -r stats/$1_count.csv \
     output/$1/$2_full.trig.gz
 fi
@@ -36,12 +36,12 @@ if [ $2 == "HEADER" ]; then
 fi
 
 if [ -f output/$1/$2_index.trig.gz ]; then
-  npop count \
+  np op count \
     -r stats/$1_icount.csv \
     output/$1/$2_index.trig.gz
 fi
 if [ -f output/$1/$2-*_index.trig.gz ]; then
-  npop count \
+  np op count \
     -r stats/$1_icount.csv \
     output/$1/$2-*_index.trig.gz
 fi

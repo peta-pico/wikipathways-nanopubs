@@ -30,11 +30,10 @@ if [ $INDEX_PWPARTICIPATION ]; then
   SUB="$SUB -s $INDEX_PWPARTICIPATION"
 fi
 
-
 PREVIOUS=`
   cat reports/top-indexes_report.txt \
-  | sed -r 'N;s/^([0-9]*)\nIndex URI:/\1/g' \
-  | egrep "^$1 " | sed -r 's/^[0-9]* //'
+  | sed -r '{N;s/^([0-9]*)\nIndex URI:/\1/g}' \
+  | egrep "^$1" | sed -r 's/^[0-9]* //'
 `
 SUPERSEDE=""
 if [ $PREVIOUS ]; then

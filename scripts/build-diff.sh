@@ -5,7 +5,7 @@
 # $ scripts/build-diff.sh complexes 20161110 20161210
 #
 
-npop reuse -n -s \
+np op reuse -n -s \
   -x output/$1/$2_full.trig.gz \
   -o output/$1/$3-$2_new.trig.gz \
   -a output/$1/$3_full.trig.gz \
@@ -16,7 +16,7 @@ npop reuse -n -s \
   input/$1/$3.trig.gz \
   &> reports/$1/$3-$2_report.txt
 
-npop ireuse -s \
+np op ireuse -s \
   -x output/$1/$2_index.trig.gz \
   -o output/$1/$3-$2_index.trig.gz \
   -a output/$1/$3_index.trig.gz \

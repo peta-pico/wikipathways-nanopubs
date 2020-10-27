@@ -16,7 +16,7 @@ echo "file,reusableCount,inputCount,reuseCount,topicMatchCount,intopicDuplCount,
 echo "file,reuseCount" \
   >> stats/$1_itable.csv
 
-npop reuse -n -s \
+np op reuse -n -s \
   -o output/$1/$2_full.trig.gz \
   -c output/cache/$1/$2_cache.txt.gz \
   -r stats/$1_ctable.csv \
@@ -25,7 +25,7 @@ npop reuse -n -s \
   input/$1/$2.trig.gz \
   &> reports/$1/$2_report.txt
 
-npop ireuse -s \
+np op ireuse -s \
   -o output/$1/$2_index.trig.gz \
   -r stats/$1_itable.csv \
   -T "Nanopubs covering $1 extracted from WikiPathways version $2" \
