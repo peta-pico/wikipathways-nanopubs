@@ -47,3 +47,7 @@ file,reusableCount,inputCount,reuseCount,topicMatchCount,intopicDuplCount,outTop
 20200610.trig.gz,78,80,70,0,0,0,0
 20200710.trig.gz,80,80,70,0,0,0,0
 20200810.trig.gz,80,80,78,0,0,0,0
+20200910.trig.gz,80,80,77,0,0,0,0
+20201010.trig.gz,80,80,78,0,0,0,0
+20201110.trig.gz,80,81,79,0,0,0,0
+20201210.trig.gz,81,84,80,0,0,0,0

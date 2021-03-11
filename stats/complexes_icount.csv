@@ -94,3 +94,11 @@ filename,nanopubs,head,assertion,provenance,pubinfo
 20200710-20200610_index.trig.gz,1,4,80,1,6
 20200810_index.trig.gz,1,4,80,1,6
 20200810-20200710_index.trig.gz,1,4,80,1,6
+20200910_index.trig.gz,1,4,80,1,6
+20200910-20200810_index.trig.gz,1,4,80,1,6
+20201010_index.trig.gz,1,4,80,1,6
+20201010-20200910_index.trig.gz,1,4,80,1,6
+20201110_index.trig.gz,1,4,81,1,6
+20201110-20201010_index.trig.gz,1,4,81,1,6
+20201210_index.trig.gz,1,4,84,1,6
+20201210-20201110_index.trig.gz,1,4,84,1,6
